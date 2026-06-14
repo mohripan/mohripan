@@ -17,3 +17,11 @@ Currently, I'm working as a Senior Software Engineer / Specialist, focusing on b
 💬 Ask me about backend architecture, microservices, integrations, cloud infrastructure, or system design.
 
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/mohammad-ripan-b68522141) | [Email](mailto:mohripan16@gmail.com)
+
+### My GitHub Stats
+<p align="left">
+<a href="https://github.com/quenzvezda">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohripan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohripan&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
