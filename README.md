@@ -25,7 +25,7 @@ Currently working as a **Senior Machine Learning Systems Engineer at Media Info 
 ### 🛠️ Tech I Work With
 
 **Languages & Backend**  
-Python · C#/.NET · Java · Rust · C/C++ · FastAPI · ASP.NET
+Python · C/C++ · C#/.NET · Java · Rust · C/C++ · FastAPI · ASP.NET
 
 **AI & ML Systems**  
 LLMs · AI Agents · Retrieval/CAG · MLOps/LLMOps · PyTorch · TensorFlow · Model Evaluation
